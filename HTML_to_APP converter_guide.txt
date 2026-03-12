@@ -1,0 +1,8 @@
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.Your_name.app_name" version="1.0.0">
+<name>app name</name>
+<description>Description</description>
+<author email="email@gmail.com">Your name</author>
+<platform name="Platform name">
+<icon src="icon.png"/>
+</platform>
+</widget>
